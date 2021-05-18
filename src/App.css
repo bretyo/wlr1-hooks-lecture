@@ -5,3 +5,11 @@
 a{
   color: white;
 }
+
+div > a{
+  color: black;
+}
+
+img{
+  border: black 1px solid;
+}
